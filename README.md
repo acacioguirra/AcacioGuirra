@@ -20,5 +20,5 @@ Sou um desenvolvedor apaixonado por automação, inteligência artificial e ciê
 
 ## ✉️ Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acacio-guirra-4b0a17211/) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:acacio23guirra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acacio-guirra-4b0a17211/) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](acacio23guirra@gmail.com)
  
