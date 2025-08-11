@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos e estudos
 Sou um desenvolvedor apaixonado por automação, inteligência artificial e ciência de dados. Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
 
 - Explorando novas tecnologias e aprimorando minhas habilidades
-- Interesse especial em **IA, Automação, Web Scraping e Data Science**
+- Interesse especial em **IA, Automação, Data Engineering E e Data Science**
 - Sempre aprendendo e compartilhando conhecimento
 
 ## 🛠️ Tecnologias & Ferramentas
